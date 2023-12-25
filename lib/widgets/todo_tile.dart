@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:go_router/go_router.dart';
 import 'package:provider/provider.dart';
-// import 'package:todo_app/models/todo.dart';
 import 'package:todoz/models/todo.dart';
 import 'package:todoz/providers/todo_provider.dart';
 
